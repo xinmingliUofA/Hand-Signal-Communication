@@ -2,7 +2,9 @@
 
 This repository contains the sensor dataset used in the study:
 
-**Dynamic Hand-Signal Recognition and Prediction Framework for Crane Operations Using Deep Learning**
+**Reliable Dynamic Hand-Signal Communication
+in Crane Operations via Sensor and Deep
+Learning Integration**
 
 ## Dataset Description
 
