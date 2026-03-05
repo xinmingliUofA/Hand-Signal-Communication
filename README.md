@@ -27,6 +27,9 @@ Each hand includes measurements from multiple sensors across several time points
 - Flex sensor measurements
 
 These features together represent the dynamic characteristics of hand signals.
+The sensor dataset used in this study is publicly available at:
+
+https://github.com/xinmingliUofA/Hand-Signal-Communication
 
 ## Files
 
