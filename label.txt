@@ -1,0 +1,18 @@
+0 Rest
+1 Boom up
+2 Boom down
+3 Stop
+4 Emergency stop
+5 Boom up hoist down 1
+6 Boom down hoist up 1
+7 Hoist up
+8 Hoist down
+9 Hoist up slowly
+10 Hoist down slowly
+11 Swing left
+12 Swing right
+13 Retract boom
+14 Extend boom
+15 Boom up hoist down 2
+16 Boom down hoist up 2
+17 Standby
